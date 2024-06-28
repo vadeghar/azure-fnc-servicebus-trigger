@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=laksfnslearnb1f5;AccountKey=UzZ27ODiatP6VZUfYb4iCzEp4c1gJvoriUurzFdLiD3HhmrmAPzE81pcIs/xQ6IRaugTJrcJWKFt+ASt3eOSHw==;EndpointSuffix=core.windows.net",
+        "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=laksfnslearnb1f5;AccountKey=UzZ27ODiatP6VZUfYb4iCzEp4c1gJvoriUurzFdLiD3HhmrmAPzE81pcIs/xQ6IRaugTJrcJWKFt+ASt3eOSHw==;EndpointSuffix=core.windows.net",
+        "FUNCTIONS_WORKER_RUNTIME": "java",
+        "MAIN_CLASS": "com.fabrikam.FunctionApplication",
+        "ServiceBusConnection": "Endpoint=sb://laks-eus2-sb-ns-learn.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=nnVDqt80T7xlpJgb4Ovanvx7N0cK8GseF+ASbC/QgZg="
+    }
+}
